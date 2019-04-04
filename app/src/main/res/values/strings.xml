@@ -1,0 +1,5 @@
+<resources>
+    <string name="font_roboto_regular" translatable="false">font/Roboto-Regular.ttf</string>
+
+    <string name="app_name">MVVMStarterApp</string>
+</resources>
