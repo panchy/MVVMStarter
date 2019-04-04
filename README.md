@@ -5,7 +5,7 @@ A simple Kotlin based MVVM starter project with common libraries included. (Room
 
 
 ### Reason
-Since I create a lot of Android projects, I wanted to reduce the time to build the hierarchy of fresh-starts.
+Since I create Android projects often, I wanted to reduce the time to build the hierarchy of fresh-starts.
 
 
 ### Included Libraries
